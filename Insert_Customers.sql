@@ -1,0 +1,18 @@
+Truncate Table Customers;
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Jason','Roy','jasonroy@extmail.com',GETUTCDATE());
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Nicolo','Thomas','nicolo78@extmail.com','2022-12-30');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Rahul','Sharma','rahul@extmail.com','2023-01-17');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Ankur','Bodha','ankur@extmail.com','2023-02-02');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Raheem','Khan','rkhan@extmail.com','2022-12-02');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Ajay','Mathur','ajaymathur@extmail.com',GETUTCDATE());
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Bill','Johnson','bill_j@extmail.com','2023-01-19');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Henry','Nicole','henryN@extmail.com','2022-11-30');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Jack','Crew','Jcrew@extmail.com','2023-01-20');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Santosh','Jha','santhosh@extmail.com','2022-12-17');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Anil','Rathor','anil78@extmail.com','2023-03-20');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('James','Andresons','james_90@extmail.com',GETUTCDATE());
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Akash','Ray','akashR@extmail.com','2022-11-20');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Ravi','Teja','rabi_teja@extmail.com',GETUTCDATE());
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Bikram','Pandey','bikram87@extmail.com','2023-03-10');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('Antony','Marshal','antony@extmail.com','2022-11-17');
+Insert into Customers(First_Name,Last_Name,emailID,Joining_Date) values ('A.K','Roy','a.roy@extmail.com','2023-01-01');

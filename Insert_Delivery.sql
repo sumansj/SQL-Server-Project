@@ -1,0 +1,28 @@
+Truncate Table Delivery;
+
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10002,103,2,'2023-04-13 20:30:14.670','2023-04-16 20:30:14.670','Completed',1002);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10005,109,2,'2023-04-13 20:30:15.570','2023-04-17 10:20:15.610','Completed',1141);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10008,104,6,'2023-04-13 20:30:13.550','2023-04-15 20:30:11.570','Completed',1210);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10013,107,10,'2023-04-15 20:30:12.470','2023-04-20 09:30:10.750','Completed',1026);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10014,100,11,'2023-04-14 20:30:15.300','2023-04-17 10:40:15.170','Completed',1053);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10017,108,12,'2023-04-15 20:10:11.740','2023-04-20 08:10:16.570','Completed',1050);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10019,105,13,'2023-04-15 10:10:10.540','2023-04-18 09:20:14.450','Completed',1015);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10023,103,15,'2023-04-14 13:30:14.440','2023-04-18 20:30:12.350','Completed',1095);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10003,103,2,'2023-04-13 13:40:26.687','','Cancelled',1013);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10009,110,7,'2023-04-13 13:50:26.273','','Cancelled',1052);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10001,100,1,'2023-04-14 06:50:26.273','','Proccess',1000);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10004,107,3,'2023-04-13 17:50:20.222','','Process',1026);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10006,106,5,'2023-04-13 20:30:25.178','','Process',1041);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10007,110,7,'2023-04-14 00:00:00.013','','Process',1048);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10010,108,9,'2023-04-14 13:50:26.273','','Process',1007);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10011,100,9,'2023-04-15 10:00:26.113','','Process',1010);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10012,110,7,'2023-04-15 00:00:16.245','','Process',1039);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10015,107,8,'2023-04-15 02:00:12.277','','Process',1049);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10016,110,8,'2023-04-14 13:50:26.273','','Process',1102);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10018,105,13,'2023-04-14 20:00:14.273','','Process',1004);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10021,101,14,'2023-04-15 01:20:14.280','','Process',1044);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10020,101,14,'2023-04-15 00:10:10.110','','Process',1044);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10022,101,14,'2023-04-14 20:30:14.273','','Process',1208);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10024,103,15,'2023-04-14 22:50:30.000','','Process',1065);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10025,109,16,'2023-04-15 00:00:00.000','','Process',1204);
+Insert into Delivery (O_Id,S_Id,C_Id,D_Start_On,D_End_On,D_Status,P_Id) values(10026,105,17,'2023-04-14 23:58:00.200','','Process',1040);
